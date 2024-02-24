@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ja&amp;Ko</string>
+    <string name="encryption_name">LBC-3</string>
+    <string name="browse_file">Confirm</string>
+    <string name="text_file">Text File</string>
+    <string name="key_file">Key File</string>
+    <string name="btn_enter">Start</string>
+    <string name="developer">by Ja&amp;Co</string>
+    <string name="reset">Reset</string>
+    <string name="output_text">Output Text</string>
+</resources>
